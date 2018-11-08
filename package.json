@@ -33,7 +33,7 @@
     "path-to-regexp": "^1.7.0",
     "prop-types": "^15.5.10",
     "react-lifecycles-compat": "^1.0.2",
-    "react-native-drawer-layout-polyfill": "^1.3.2",
+    "react-native-drawer-layout-polyfill": "git+https://github.com/nautilusdigital/react-native-drawer-layout-polyfill.git#fix-windows-scroll",
     "react-native-safe-area-view": "^0.7.0",
     "react-native-tab-view": "github:react-navigation/react-native-tab-view"
   },
